@@ -11,7 +11,7 @@
 
 ## Git 三种状态与工作模式
 
-<img src="https://git-scm.com/figures/18333fig0106-tn.png" alt="git modes" style="zoom:50%;" />
+<img src="https://git-scm.com/figures/18333fig0106-tn.png" alt="git modes" style="zoom:20%;" />
 
 ### Git 初阶
 
